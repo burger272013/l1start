@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbc74bc83918fc94182a214fc2db1395
+timeCreated: 1488825424
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Prefabs/big_cone_orange.prefab
+  uploadId: 166057

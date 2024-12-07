@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09e913e928398a34482fb2c0bb3a6650
+timeCreated: 1487422321
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Materials/crash_barrier_cap_material.mat
+  uploadId: 166057

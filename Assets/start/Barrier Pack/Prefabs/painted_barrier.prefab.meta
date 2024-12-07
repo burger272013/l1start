@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f1bb2cacf6d4ca4c878049b803fd391
+timeCreated: 1488824687
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Prefabs/painted_barrier.prefab
+  uploadId: 166057

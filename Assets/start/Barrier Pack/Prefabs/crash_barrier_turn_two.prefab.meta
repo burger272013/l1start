@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd203fb8553110b4eaa7c231259b8660
+timeCreated: 1488826790
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Prefabs/crash_barrier_turn_two.prefab
+  uploadId: 166057

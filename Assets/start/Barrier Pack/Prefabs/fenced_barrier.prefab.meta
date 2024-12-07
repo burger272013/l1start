@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8c83c417104d75459226dd80248bfe2
+timeCreated: 1488824462
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Prefabs/fenced_barrier.prefab
+  uploadId: 166057

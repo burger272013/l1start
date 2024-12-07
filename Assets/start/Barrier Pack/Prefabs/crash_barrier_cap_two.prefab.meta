@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2adcca9864477ec46adbaa925a5d51fa
+timeCreated: 1488826263
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Prefabs/crash_barrier_cap_two.prefab
+  uploadId: 166057

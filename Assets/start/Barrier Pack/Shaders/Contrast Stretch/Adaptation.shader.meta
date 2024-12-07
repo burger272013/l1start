@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 257bc83cbeb544540bd0e558aa9b1383
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Shaders/Contrast Stretch/Adaptation.shader
+  uploadId: 166057

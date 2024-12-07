@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 70d8568987ac0499f952b54c7c13e265
+timeCreated: 1488827370
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Shaders/GlobalFog.shader
+  uploadId: 166057

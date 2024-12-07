@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e31a8ab873b7044ba742a371f670e65
+timeCreated: 1486556291
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Materials/fenced_barrier_material.mat
+  uploadId: 166057

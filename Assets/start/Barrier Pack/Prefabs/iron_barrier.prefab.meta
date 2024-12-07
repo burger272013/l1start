@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1afece281bd761d4a9b16adee2b788e3
+timeCreated: 1488826471
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Prefabs/iron_barrier.prefab
+  uploadId: 166057

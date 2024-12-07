@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73d18ed494f69ad41b44fe6d2c7c54d4
+timeCreated: 1488825183
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Prefabs/signed_short_barrier.prefab
+  uploadId: 166057

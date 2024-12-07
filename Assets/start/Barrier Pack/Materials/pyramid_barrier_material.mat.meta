@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 713d751bf8244a442ab9a212bcf70284
+timeCreated: 1486082653
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82549
+  packageName: Barrier & Traffic Cone Pack
+  packageVersion: 1.1
+  assetPath: Assets/Barrier Pack/Materials/pyramid_barrier_material.mat
+  uploadId: 166057
